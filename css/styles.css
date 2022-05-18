@@ -393,7 +393,7 @@ ul {
   padding-top: 94px;
   padding-bottom: 94px;
 }
-.clients-icon {
+.clients-list {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -646,6 +646,7 @@ ul {
 
 .modal-button {
   position: absolute;
+  padding: 0;
   top: 8px;
   right: 8px;
   width: 30px;
